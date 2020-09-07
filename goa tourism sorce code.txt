@@ -1,0 +1,1931 @@
+
+
+
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head><meta charset="UTF-8" /><title>
+	GTDC
+</title><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta name="description" content="GTDC official website book tourist budget hotels in Goa with range of discounts Holiday Packages, water sports activities &amp; tours at affordable rates" /><meta name="keywords" content="Goa Tourism, Rafting, Hot Air Balloon, Beaches, Bungee jumping, Scuba diving, Hotels, Cruise, Watersports, Tours, budget hotels in Goa, tourist budget hotels, Holiday Packages, sightseeing tours at affordable rates and discounts, shop for booking tours budget hotels Holidays in Goa, things to do in goa, Beach side hotels in Goa" /><meta name="author" content="n@v" /><meta name="copyright" content="goa-tourism[dot]com" /><meta name="robots" content="index, follow" /><meta name="reply-to" content="info[at]goa-tourism[dot]com" /><meta name="title" content="GTDC offers a wider choice from a range of hotels, rooms, competitive pricing and facilities in Goa" /><meta name="document-classification" content="GTDC fully aware of the demands from the tech-savvy tourist and growing trend in youth is keeping itself abreast with latest technologies and variety of Goa tourism facets on one platform" /><meta name="document-type" content="Public" /><meta name="language" content="English" /><meta name="document-rating" content="Safe for Kids" /><meta name="document-distribution" content="Global" /><link rel="icon" href="GTDC-holidays/images/favicon.ico" /><link href="GTDC-holidays/css/print.css" rel="stylesheet" /><link rel="stylesheet" href="GTDC-holidays/assets/plugins/font-awesome/css/font-awesome.min.css" /><link rel="stylesheet" href="GTDC-holidays/assets/plugins/bootstrap/css/bootstrap.min.css" /><link rel="stylesheet" href="GTDC-holidays/css/gtdc.min.css" /><link rel="stylesheet" href="GTDC-holidays/assets/css/style.css" /><link href="GTDC-holidays/css/style-gtdc-temp.css" rel="stylesheet" /><link href="GTDC-holidays/css/style-slider.css" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700" rel="stylesheet" /><link rel="stylesheet" href="GTDC-holidays/css/navigation.css" />
+
+    <script src="GTDC-holidays/js/jquery.min.js"></script>
+	
+    <script src="GTDC-holidays/js/gtdc.min.js"></script>
+
+    
+
+    <script type="text/javascript" src="GTDC-holidays/assets/plugins/scrollbar/js/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script type="text/javascript" src="GTDC-holidays/assets/js/app.js"></script>
+
+
+     <script  src="../../GTDC-holidays/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            App.initScrollBar();
+        });
+
+    </script>
+
+    <script type="text/javascript">
+        function HandleClose() {
+            PageMethods.killEverything();
+        }
+        function burstCache() {
+            //call this method on page load in production environment
+            if (!navigator.onLine) {
+                document.body.innerHTML = 'Loading ...';
+                window.location = location.origin + '/Error.htm';
+            }
+        }
+        //function disableBackButton() {
+        // window.history.forward(-1);
+        //}
+        //setTimeout("disableBackButton()", 0);
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Global site tag (gtag.js) - AdWords: 855258805 --> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-855258805"></script> 
+<script> 
+window.dataLayer = window.dataLayer || []; 
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date()); gtag('config', 'AW-855258805'); 
+</script>
+
+<!-- Event snippet for GT - website click conversion page -->
+
+<script>
+
+    gtag('event', 'conversion', { 'send_to': 'AW-855258805/pgHtCM6Xr4sBELXt6JcD' });
+
+</script>
+
+
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115201527-1"></script>
+
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-115201527-1');
+    </script>
+
+    <div id="wrapperheader">
+        <header>
+           <!-- <div class="floatleft container1-home">
+                <img src="../../GTDC-holidays/images/goa-logo.jpg" width="115" height="95" alt="GTDC Logo" />
+            </div>
+
+            <div class="floatleft container3" style="width:45%;">
+
+                <div id="contwel">Goa Tourism Development Corporation</div>
+                <div id="cont3" style="color: #2e446f;">
+                    A Government of Goa Undertaking
+                </div>
+                <div id="wrapperline" style="margin:0px;padding-top:5px;width:76%;">
+                    <div></div>
+                </div>
+            </div> -->
+	<div class="row">
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-2">
+                    <img src="../../GTDC-holidays/images/goa-logo.jpg" width="115" height="95" alt="GTDC Logo">
+                </div>
+                <div class="col-xs-8 col-sm-6 col-md-6 col-lg-7">
+                    <div class="floatleft container3" style="width: 100% !important;">
+                        <div id="contwel">Goa Tourism Development Corporation</div>
+                        <div id="cont3" style="color: #2e446f;">
+                            A Government of Goa Undertaking
+                        </div>
+                        <div id="wrapperline" style="margin: 0px; padding-top: 5px; width: 76%;">
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-3 col-sm-3 col-md-3 col-lg-2">
+                </div>
+                <div class="col-xs-9 col-sm-9 col-md-3 col-lg-3">
+                    <div class="floatleft container3" style="width: 100% !important; height: 0px !important;padding-top:25px;">
+                        <div id="cont3" style="/* padding-top: 0px; */color: #2e446f; font-size: 12px; font-weight: bold; z-index: 100; display: block;position: absolute;">
+                            <a href=" https://play.google.com/store/apps/details?id=com.gtdc.gel"  target="_blank">Download Goa Tourism Mobile App </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+    </div>
+    <div id="wrappernav">
+        <div class="container" style="padding-left: 10px; padding-right: 1px;">
+            <nav>
+                    <div class="navigation">
+                        <ul>
+                            <li class="menuli"><a href="../../start" title="Goa Tourism Homepage">Home</a></li>
+                             <li><a href="../../About"  title="About Us">About Us</a></li>
+                              <li><a tabindex="1" title="Book Online hotels, water sports, hot air balloon, seaplanes, amphibious vessels, Casino Cruises">Book Now<span class="arrow-down"></span></a>
+                                <ul class="dropdown">
+                                    <li><a href="../../hotels"  title="GTDC Residencises in Goa">GTDC Residencies</a></li>
+                                    <li><a href="../../package"  title="Packages In Goa">GTDC Packages</a></li>
+                                    <li><a href="../../cruises"  title="GTDC Cruises">GTDC Cruises</a></li>
+                                    <li><a href="../../tours"  title="GTDC Tours">GTDC Tours</a></li>
+                                    <li><a href="../../halls"  title="GTDC Halls">GTDC Halls</a></li>
+                                    <li><a href="../../vehicles"  title="GTDC Vehicles">GTDC Vehicles</a></li>
+                                    <li><a href="../../venues"  title="GTDC Venues">GTDC Venues</a></li>
+                                   <li></li>
+                                    
+                                </ul>
+                            </li>
+                            <li><a tabindex="1" title="Explore">Explore<span class="arrow-down"></span></a>
+                                <ul class="dropdown">
+				    <li><a href="../../agro_tourism" title="Agro Eco Tourism">Agro Eco Tourism</a></li>
+                                    <li><a href="../../panorama" title="360° Panoramic View">360° Panoramic View</a></li>
+                                    <li><a href="../../beach" title="Beaches in Goa">Beaches</a></li>
+                                    <li><a href="../../springs" title="Lake, Falls, Springs">Lake, Falls, Springs</a></li>
+                                    <li><a href="../../plantation" title="Spice Plantations">Spice Plantations</a></li>
+                                    <li><a href="../../churches" title="Churches in Goa">Churches</a></li>
+                                    <li><a href="../../temples" title="Temples in Goa">Temples</a></li>
+                                    <li><a href="../../mosques" title="Mosques in Goa">Mosques</a></li>
+                                    <li><a href="../../museum" title="Museum in Goa">Museums</a></li>
+                                    <li><a href="../../food" title="Food">Food</a></li>
+                                    <li><a href="../../culture" title="Culture">Culture</a></li>
+                                    
+                                   <li></li>
+                                    
+                                </ul>
+                            </li>
+                            <li><a tabindex="1" title="Plan Your Trip">Plan  Trip<span class="arrow-down"></span></a>
+                                <ul class="dropdown">
+                                    <li><a href="../../visa"  title="Visas to Goa">Visa</a></li>
+				    <li><a href="../../GTDC-holidays/images/downloads/Passenger-Charter-MoCA.pdf"  title="Passenger Charter" target="_blank">Passenger Charter</a></li>
+                                    <li><a href="../../facts"  title="Facts & Figures">Facts & Figures</a></li>
+                                    <li><a href="../../weather"  title="Weather in Goa">Weather</a></li>
+                                    <li><a href="../../getting_around" title="Getting Around">Getting Around</a></li>
+                                    <li><a href="../../laws"  title="Laws of Goa">Laws</a></li>
+                                    <li><a href="../../map" title="Map of Goa">Map</a></li>
+                                    <li></li>
+                                
+                                </ul>
+                            </li>
+                            
+                           
+                             
+
+			<li><a tabindex="1"  title="Things to Do">Things to Do<span class="arrow-down"></span></a>
+                                <ul class="dropdown">
+				    <!--<li><a href="../../Sundaytrekk"  title="sunday trekking">Sunday Trekking&nbsp</a></li>-->
+				    <li><a href="../../rajbhavan_main"  title="Raj bhavan">Raj Bhavan Darshan&nbsp</a></li>
+				    <li><a href="../../tirupati_tours"  title="tirupati tours">Tirupati Tours&nbsp</a></li>
+				    <li><a href="../../Ashtavinayak_tours"  title="Ashtavinayak tours">Ashtavinayak Tours&nbsp<img src="../../Images/newgif.gif" width="20" height="20"></a></li>
+				    <li><a href="../../dudhsagar_main"  title="Dudhsagar Waterfalls">Dudhsagar Waterfalls</a></li>
+				    
+				    <li>
+                                    <a id="hlnkHoho" href="Appln/UIL/ActivitiesHome?__Mode=AC001">
+                                     Hop On Hop Off 
+                                    </a>
+                                    </li>
+ 				    <li>
+                                      <a id="hlnkEbike" href="Appln/UIL/ActivitiesHome?__Mode=AC002">
+                                    E-Bikes Tours 
+                                    </a>
+                                    </li>
+				    <!--<li><a href="../../waterrafting"  title="Water Rafting">Water Rafting</a></li>-->
+			            <!--<li><a href="../../Jumpin_Heights"  title="Bungee Jumping">Bungy Jumping</a></li> -->
+				    <li>
+                                      <a id="hlnkbunj" href="Appln/UIL/ActivitiesHome?__Mode=AC007">
+                                    Bungy Jumping <img src="../../Images/newgif.gif" width="20" height="20">
+                                    </a> 
+                                    </li>
+				    <!--<li>
+                                      <a id="hlnkWater" href="Appln/UIL/ActivitiesHome?__Mode=AC006">
+                                    White Water Rafting <img src="../../Images/newgif.gif" width="20" height="20">
+                                    </a>
+                                    </li>-->
+				    
+ 				    <li>
+                                      <a id="hlnkscuba" href="Appln/UIL/ActivitiesHome?__Mode=AC003">
+                                    Scuba Diving
+                                    </a>
+                                    </li>
+ 				     <li>
+                                      <a id="hlnkhotAir" href="Appln/UIL/ActivitiesHome?__Mode=AC004">
+                                    Hot Air Balloon
+                                    </a>
+                                    </li>
+				    <li><a href="../../motorised_paragliding"  title="motorised paragliding">Motorised Paragliding&nbsp <img src="../../Images/newgif.gif" width="20" height="20"></a></li>
+				    
+				   
+				    <!--<li><a href="../../hotairballoon_main"  title="Hot Air Balloon" >Hot Air Balloon</a></li>-->
+				    <!--<li><a href="../../e-bikes_main"  title="E-Bike Tours">E-Bike Tours&nbsp</a></li>-->
+				    
+				    <li><a href="../../lokaso"  title="Lokaso">Photoshoot with Lokaso&nbsp<img src="../../Images/newgif.gif" width="20" height="20"></a></li>
+				    <!--<li><a href="../../Flyingfish_main"  title="Flying Fish">Flying Fish&nbsp</a></li>-->
+				   
+				    <li><a href="../../Searafting_main"  title="Sea Rafting">Sea Rafting&nbsp</a></li>
+				    <li><a href="../../angriya_main"  title="Angriya">Angriya&nbsp</a></li>
+				    <li><a href="../../AvocetPeregrine_main"  title="Avocet_Peregrine">Bird and Wildlife trips</a></li>
+				   <!--<li><a href="../../galaxia_galante"  title="Galaxia Galante">Galaxia Galante&nbsp</a></li>-->
+				    <!--<li><a href="../../hoponhopoff_main"  title="Hop on Hop off">Hop on Hop off</a></li>-->
+				   
+				    <li><a href="../../shop"  title="Shopping">Shop</a></li>
+                                    <li><a href="../../ayurveda"  title="Ayurveda">Ayurveda</a></li>
+                                    <li><a href="../../weddings"  title="Plan a weddings in Goa">Plan a Wedding</a></li>
+                                    <li><a href="../../calender"  title="Event & Festivals Calendar">Calendar</a></li>
+                                    <li></li>
+                                 </ul>
+                            </li>
+                            <li>
+                           <a id="hlntracksts" href="Appln/UIL/bookingform_af?">
+                              Track Status
+                            </a>
+
+                            </li>
+                            <!--<li><a href="../../happenings"  title="Happenings in Goa">Happenings</a></li>-->
+                            
+                                <li><a title="Downloads">Downloads<span class="arrow-down"></span></a>
+                                  <ul class="dropdown">
+                               	 <li><a href="../../GTDC-holidays/images/downloads/Manipal_Hospital.pdf" target="#" title="Medical Partner">Medical Partner</a></li>
+                                 <li><a href="../../citizen_charter" title="Citizen Charter">Citizen Charter</a></li>
+				 <li><a href="../../GTDC-holidays/images/downloads/GTDC TRAVEL AGENTS (FINAL LIST) May  2019.pdf" title="Citizen Charter" target="_blank">GTDC Travel Agents</a></li>
+                                 <li><a href="../../women_taxi" title="Women Taxi">Women Taxi</a></li>
+                                 <li><a href="../../newsletters" title="Newsletters">Newsletters</a></li>
+                                 <li><a href="../../taxi_empanellment" title="Taxi Empanellment">Taxi Empanellment</a></li>
+                                 <li><a href="../../wallpapers" title="Wallpapers">Wallpapers</a></li>
+                                 <li><a href="../../database" title="Database">Database</a></li>
+                                    <li>
+                                </li>
+                            </li>
+                        </ul>
+
+                         <li><a tabindex="1" title="Trades">Trades<span class="arrow-down"></span></a>
+                                  <ul class="dropdown">
+                            <li><a href="../../trade_tenders" title="Tenders">Tenders</a></li>
+                            <li><a href="../../tenders_trade" title="Trade Shows">Trade Shows</a></li>
+                                <li>  </li>
+                             </ul>
+                              <li><a tabindex="1" title="Trades">Goa Miles<span class="arrow-down"></span></a>
+                                  <ul class="dropdown">
+                                       <li><a href="../../goa_miles"  title="Goa Miles" target="_blank">About Goa Miles</a></li>
+                                       <!--<li><a href="../../TaxiHailingRegistration" title="Taxi App Registration" target="_blank">Taxi Registration</a></li>--> 
+                                      </ul>
+                                 </li>
+			 
+
+                        <li><a id="hlnlogin" href="Public/Login.aspx?">
+                              Login
+                            </a></li>
+			      
+                        </ul>
+                      
+
+
+                    </div>
+                    <div class="nav_bg">
+                        <div class="nav_bar"><span></span><span></span><span></span></div>
+                    </div>
+                </nav>
+        </div>
+    </div>
+    
+</head>
+<body onload="burstCache();">
+    <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="enV6fJ2tCwMJEHywjozzVa8lP9j6FLIovMPDpWPf25iaWuPmkHzirGv65CUHkeOvTPmbyDn+2dH7z3nUkYnoDNSiMkzJa52qv10QANu7apA=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5EA338BD" />
+</div>
+    <div>
+        
+    <script type="text/javascript" id="www-widgetapi-script" src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vflB7PmFQ/www-widgetapi.js" defer></script>
+    <script src="https://www.youtube.com/iframe_api" defer></script>
+    <style>
+        h3.heading-xs
+        {
+            font-size: 16px;
+        }
+        .profile .profile-post-in p
+        {
+            font-size: 14px;
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            var pos = 0,
+                slides = $('.slide'),
+                numOfSlides = slides.length;
+
+            function nextSlide() {
+                // `[]` returns a vanilla DOM object from a jQuery object/collection
+                slides[pos].video.stopVideo()
+                slides.eq(pos).animate({ left: '-100%' }, 500);
+                pos = (pos >= numOfSlides - 1 ? 0 : ++pos);
+                slides.eq(pos).css({ left: '100%' }).animate({ left: 0 }, 500);
+            }
+
+            function previousSlide() {
+                slides[pos].video.stopVideo()
+                slides.eq(pos).animate({ left: '100%' }, 500);
+                pos = (pos == 0 ? numOfSlides - 1 : --pos);
+                slides.eq(pos).css({ left: '-100%' }).animate({ left: 0 }, 500);
+            }
+
+            $('.left').click(previousSlide);
+            $('.right').click(nextSlide);
+        })
+
+        function onYouTubeIframeAPIReady() {
+            $('.slide').each(function (index, slide) {
+                // Get the `.video` element inside each `.slide`
+                var iframe = $(slide).find('.video')[0]
+                // Create a new YT.Player from the iFrame, and store it on the `.slide` DOM object
+                slide.video = new YT.Player(iframe)
+            })
+        }
+    </script>
+    <style>
+                        
+        /* Additionnal styles */
+        .video-slider {
+                width: 100%;
+                height: 20em;
+                background: #fff;
+                position: relative;
+                overflow: hidden;
+        }
+        .slide {
+                position: absolute;
+                top: 0;
+                left: 100%;
+                height: 100%;
+                width: 100%;
+                text-align: center;
+                overflow: hidden;
+        }
+        .slide:first-child{
+                left: 0;
+        }
+        .video{
+                height: 100%;
+                width: 30%;
+                border:0px;
+        }
+        .slide-arrow{
+                position: absolute;
+                top: 30%;
+                left: 0;
+                height: 20%;
+                width: 5%;
+                cursor: pointer;
+                opacity: 1;
+        
+        }
+        .slide-arrow:hover{
+                opacity: 1;
+        }
+        .slide-arrow:after{
+                content: "\003c";
+                text-align: center;
+                display: block;
+                height: 100%;
+                width: 100%;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                font-size: 4em;
+        
+        
+        }
+        .slide-arrow.right:after{
+                content: "\003e";
+        }
+        .slide-arrow.right{
+                left: auto;
+                right: 0;
+        }
+	* {
+            padding: 0;
+            margin: 0;
+        }
+
+        .label-container {
+            position: fixed;
+            bottom: 48px;
+            right: 105px;
+            display: table;
+            visibility: hidden;
+            z-index: 1;
+        }
+
+        .label-text {
+            color: #FFF;
+            background: rgba(51,51,51,0.5);
+            display: table-cell;
+            vertical-align: middle;
+            padding: 10px;
+            border-radius: 3px;
+            z-index: 1;
+        }
+
+        .label-arrow {
+            display: table-cell;
+            vertical-align: middle;
+            color: #333;
+            opacity: 0.5;
+            z-index: 1;
+        }
+
+        .float {
+            position: fixed;
+            width: 80px;
+            height: 80px;
+            bottom: 50px;
+            right: 50px;
+            background-color: #c9c3c4;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            box-shadow: 2px 2px 3px #999;
+            z-index: 1;
+
+        }
+
+        .my-float {
+            font-size: 24px;
+            margin-top: 18px;
+            z-index: 1;
+        }
+
+        a.float + div.label-container {
+            visibility: hidden;
+            opacity: 0;
+            transition: visibility 0s, opacity 0.5s ease;
+            z-index: 1;
+        }
+
+        a.float:hover + div.label-container {
+            visibility: visible;
+            opacity: 1;
+            z-index: 1;
+
+        }
+
+        </style>
+    <div id="wrapperslidermob">
+    </div>
+
+<!--<div id="wrapperbanner">
+<marquee behaviour="scroll" direction="left">
+<a href="GTDC-holidays/images/downloads/Transport Mobility Plan due to Strike.pdf" target="_blank">
+<font style="color:red; font-size:large;"><b>Transport Mobility Plan due to Strike called by Taxi Operators in Protest against Goa Miles.</b></font>
+</a>
+<a href="GTDC-holidays/images/downloads/RESIDENCY_Contact.pdf" target="_blank">
+<font style="color:red; font-size:large;"><b><span style="margin-left:13%;">List of GTDC residencies with Contact details</span></b></font>
+</a>
+<a href="vacancies" target="_blank">
+<font style="color:red; font-size:small;"><b><span style="margin-left:13%;">NOTICE TO CANDIDATES WITH RESPECT TO ADVERTISEMENT FOR FILING OF VARIOUS POSTS</span></b></font>
+</a> 
+</marquee>
+</div>-->
+
+    <!-- WRAPPER SLIDER -->
+    <div id="wrapperslider">
+        <div class="slider-wrapper theme-default">
+            <div id="nivoslider1" class="nivoSlider">
+	    
+	    <a href="hotels.aspx" title="GTDC Residencies">
+                    <img src="GTDC-holidays/images/residency_banner16.jpg" target="blank" alt="GTDC Residencies" /></a>
+	    <a href="#" title="Destination Award">
+                    <img src="GTDC-holidays/images/DestinationAward.jpg" alt="Destination Award" /></a>
+	     <!--<a href="Bird_Festival_Goa" title="Bird Festival Goa">
+                    <img src="GTDC-holidays/images/birdfest_Banner1.jpg" target="blank" alt="Bird Festival Goa" /></a>-->
+	     <!--<a href="#" title="Boat Cruise">
+                    <img src="GTDC-holidays/images/Santamonica_specialcruz.jpg" alt="Boat Cruise" /></a>-->		
+	             <!--<a href="november_poornima.aspx" target="blank" title="Serendipity"> 
+                    <img src="GTDC-holidays/images/tripurari_poornimast.jpg" alt="Tripurari Poornima" /></a>-->
+	    <!--<a href="Serendipity.aspx" target="blank" title="Serendipity"> 
+                    <img src="GTDC-holidays/images/gtdc banner01st.jpeg" alt="Serendipity" /></a> -->
+	    <!--<a href="ashtavinayak_tours.aspx" target="blank" title="Ashtavinayak Tours"> 
+                    <img src="GTDC-holidays/images/ashtavinayak_toursst.jpg" alt="Ashtavinayak Tours" /></a> -->
+	    <a href="https://bookings.rajbhavan.goa.gov.in" onclick="return confirm('This link will take you to an external web site.');" target="_blank" title="Raj Bhavan">
+                    <img src="GTDC-holidays/images/RajbhavanBannerN_9-8-19.jpg" target="blank" alt="Raj Bhavan" /></a>
+	   
+	    <!--<a href="SundayTrekk.aspx" title="Sunday trekking">
+                    <img src="GTDC-holidays/images/sundaytrekkingststandby.jpg" target="blank" alt="Sunday trekking" /></a>-->
+	    <a href="dudhsagar_main.aspx" title="Dudhsagar Waterfalls">
+                    <img src="GTDC-holidays/images/fall.jpg" alt="Dudhsagar Waterfalls" /></a>
+	    <a href="https://goamiles.com" onclick="return confirm('This link will take you to an external web site.');" target="_blank" title="Goa Miles">
+                    <img src="GTDC-holidays/images/GoamilesbannerN.jpg" target="_blank" alt="Goa Miles" /></a>
+
+	    <!--<a href="world_photography_day.aspx" title="World photography day">
+                    <img src="GTDC-holidays/images/Worldphotographydayst.jpg" alt="World photography day" /></a> -->
+	    <a href="airportkadamba.aspx" title="Airport Kadamba Buses">
+                    <img src="GTDC-holidays/images/kadambastart.jpg" alt="Airport Kadamba Buses" /></a>
+	    <!--<a href="Appln/UIL/ActivitiesHome?__Mode=AC007" title="Bungy Jumping">
+                    <img src="GTDC-holidays/images/bungystart_N.jpg" target="blank" alt="Bungy Jumping" /></a>
+	    <a href="#" title="World Yoga Day">
+                    <img src="GTDC-holidays/images/yoga-day-2019.jpg" target="blank" alt="World Yoga Day" /></a>
+
+	    <a href="saojoao.aspx" title="Sao Joao">
+                    <img src="GTDC-holidays/images/saojoaofront2019.jpg" target="blank" alt="Sao Joao" /></a>-->
+
+	    <!--<a href="Appln/UIL/ActivitiesHome?__Mode=AC006" title="White Water River Rafting">
+                    <img src="GTDC-holidays/images/White_water_raftingst.jpg" target="blank" alt="White Water River Rafting" /></a>-->
+
+	    
+	    <!--<a href="http://rajbhavan.goa.gov.in/rajbhavan-tour" onclick="return confirm('This link will take you to an external web site.');" target="_blank" title="Raj Bhavan">
+                    <img src="GTDC-holidays/images/RajbhavanBannerN_9-8-19.jpg" target="blank" alt="Raj Bhavan" /></a>
+
+	    <a href="Appln/UIL/ActivitiesHome?__Mode=AC001" title="Hop On Hop Off in Goa">
+                    <img src="GTDC-holidays/images/Hop On Hop Off Goa Bannern.jpg" alt="Hop On Hop Off in Goa" /></a>-->
+	    
+		<!--<img src="GTDC-holidays/images/sea2LY.jpg" target="blank" alt="Sea Rafting"></a>
+	    <a href="Flyingfish_main.aspx" title="Scuba Diving">
+                    <img src="GTDC-holidays/images/flyingfishLY.jpg" target="blank" alt="Scuba Diving"></a>-->
+
+             <!--<a href="Appln/UIL/ActivitiesHome?__Mode=AC002" title="Ebikes">
+                    <img src="GTDC-holidays/images/Ebikebanner.jpg" target="blank" alt="Ebikes" /></a>-->
+	     
+            <!--<a href="#" title="National Tourism Awards">
+                    <img src="GTDC-holidays/images/National Tourism Award4.jpg" target="blank" alt="National Tourism Awards" /></a>-->
+
+	    <!--<a href="lokaso.aspx" title="Lokaso">
+                    <img src="GTDC-holidays/images/Lokaso Banner Image.jpg" target="blank" alt="Lokaso" /></a>
+
+            <a href="tirupati_tours.aspx" title="Tirupati Tours">
+                    <img src="GTDC-holidays/images/tirupati_slider.jpg" alt="Tirupati Tours"/></a>-->
+
+            
+	    <!--a href="angriya_main.aspx" title="Angriya">
+                    <img src="GTDC-holidays/images/Banner-03Nline2.jpg" target="blank" alt="Angriya" /></a>-->
+
+            <!--<a href="AvocetPeregrine_main.aspx" title="Bird and Wildlife trips">
+                    <img src="GTDC-holidays/images/BirdBanner12.jpg" target="blank" alt="Bird and Wildlife trips" /></a>-->
+
+            
+             
+                
+
+                 
+                    <!--<a href="hotairballoon_main.aspx" title="Hot Air Ballon in Goa">
+                        <img src="GTDC-holidays/images/hotaiR2l1.jpg" alt="Hot Air Ballon in Goa" /></a> -->
+               
+            </div>
+</div>
+
+    </div>
+
+    <!--<div id="body_pnlBug">
+	
+                <a href="Bird_Festival_Goa" id="body_btnOpen" onclick="return confirm(&#39;This link will take you to a different page of goa-tourism.&#39;);" target="_blank" class="float">
+                                        <img src="GTDC-holidays/images/Backup_of_BIRD FEST FINAL SELECTED REVISED.png"/>
+                </a>
+               
+            
+</div>-->
+
+
+
+    <div id="wrapperbanner">
+        <div class="wrapperin">
+            <div class="parahighlight-index">
+                <div class="col-md-4">
+                    <a href="http://goatourism.gov.in/" onclick="return confirm('This link will take you to an external web site.')"
+                        title="Department of Tourism" target="http://goatourism.gov.in/">
+                        <img src="GTDC-holidays/images/got.jpg" width="300" height="68" alt="goatourism.gov.in"
+                            class="dept-tour-img" style="max-width: 100%;"></a>
+                </div>
+                <div class="col-md-4">
+                    <a href="https://incredibleindia.org/" onclick="return confirm('This link will take you to an external web site.')"
+                        title="Incredible India" target="https://incredibleindia.org/">
+                        <img src="GTDC-holidays/images/Ind.jpg" width="300" height="68" alt="Incredible India"
+                            class="dept-tour-img" style="max-width: 100%;"></a>
+                </div>
+                <div class="col-md-4">
+                    <a href="http://tourism.gov.in/" onclick="return confirm('This link will take you to an external web site.')"
+                        title="Ministry Of Tourism" target="http://tourism.gov.in/">
+                        <img src="GTDC-holidays/images/ministryoftourism.jpg" width="300" height="68" alt="Ministry Of Tourism"
+                            class="dept-tour-img" style="max-width: 100%;"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- WRAPPER HIGHLIGHTS 2 -->
+    <div id="wrapperhighlights2">
+        <div class="wrapperin">
+            <!-- <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Things to do</h2>
+                    <a href="things_menu.aspx" title="Things to do">
+                        <img src="GTDC-holidays/images/thingstodo.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>The ultimate guide from kid-friendly activities to outdoor fun, exploring, adventuring, and enjoying all there is to do in Goa.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div> -->
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Hotels</h2>
+                    <a href="hotels.aspx" title="Hotels">
+                        <img src="GTDC-holidays/images/sttile-hotel.jpg" style="width: 100%;" alt="Hotels" title="Hotels" />
+                        <h5>Best of GTDC Accommodation in Goa with best sites at walkable distance</h5>
+
+                        <div class="colorpanel color3"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div> 
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Tours</h2>
+                    <a href="tour_menu.aspx" title="Tours">
+                        <img src="GTDC-holidays/images/newtour.jpg" style="width: 100%;" alt="Tours" title="Tours" />
+                        <h5>Experience the best tours of Goa, may it be the Noth Goa Tour of Miramar, Mapusa or the South Goa Tour of Margao - Colva.</h5>
+
+                        <div class="colorpanel color3"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>River Carnival</h2>
+                    <a href="Cruises.aspx" title="River Carnival">
+                        <img src="GTDC-holidays/images/cruis.jpg" style="width: 100%;" alt="Budget Hotel accommoation in Goa" />
+                        <h5>Experience the best of Goa with a leisurely river cruise and  carnival village.</h5>
+
+                        <div class="colorpanel color1"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            
+           <!-- <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Shop</h2>
+                    <a href="shop.aspx" title="Shops">
+                        <img src="GTDC-holidays/images/sttile-shop.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>The crafts of the state are intricately beautiful, capturing the fancies of tourists and locals alike.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Ayurveda</h2>
+                    <a href="ayurveda.aspx" title="Ayurveda">
+                        <img src="GTDC-holidays/images/sttile-ayurveda.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>Panchakarma means five types of therapeutic measures of detoxification.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Plan a Wedding</h2>
+                    <a href="weddings.aspx" title="Plan a wedding">
+                        <img src="GTDC-holidays/images/sttile-wedding.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>Goa is one of the most romantic and unique destinations to tie the knot.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div> -->
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Raj Bhavan Darshan</h2>
+                    <a href="rajbhavan_main.aspx" title="Raj Bhavan">
+                        <img src="GTDC-holidays/images/sttile-rajbhavan.jpg" style="width: 100%;" alt="Raj Bhavan Darshan Tour" />
+
+                        <h5>Raj Bhavan is a residential palace situated in Dona Paula, Goa which serves as the official residence of the Hon’ble Governor of Goa.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div> 
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Hop on Hop off</h2>
+                    <a href="Appln/UIL/ActivitiesHome?__Mode=AC001" title="Hop on Hop off">
+                        <img src="GTDC-holidays/images/Hohostartpage.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>Get ready to surround yourself with the intoxicating sights and sounds of Goa.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>E-Bikes Tours</h2>
+                    <a href="Appln/UIL/ActivitiesHome?__Mode=AC002" title="E-bikes">
+                        <img src="GTDC-holidays/images/sttile-ebike.jpg" style="width: 100%;" alt="EBikes" />
+
+                        <h5>Experience the joy of effortless riding on electric-bikes.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+	    <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2 style="font-size: 15px">White Water River rafting</h2>
+                    <a href="Appln/UIL/ActivitiesHome?__Mode=AC006" title="White Water River Rafting">
+                        <img src="GTDC-holidays/images/sttile-wwr.jpg" style="width: 100%;" alt="River Rafting" />
+
+                        <h5>Behold the enticing monsoon of Goa ! This June to October in Goa is the perfect time to soak in the refreshing rain and ride the waves.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+           <!-- <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2 style="font-size: 20px">Dudhsagar Waterfall</h2>
+                    <a href="dudhsagar_main.aspx" title="Dudhsagar Waterfall">
+                        <img src="GTDC-holidays/images/sttile-dudhsagar.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>The name ‘Dudhsagar’ literally translates to ‘sea of milk’ which many believe is an allusion to the white spray and foam</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div> -->
+            
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Angriya</h2>
+                    <a href="angriya_main.aspx" title="Angriya">
+                        <img src="GTDC-holidays/images/sttile-angriya.jpg" style="width: 100%;" alt="Angriya" />
+
+                        <h5>Immense national pride and endless love for the sea gave birth to a vessel that is all set to wow you!</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Hot Air Balloon</h2>
+                    <a href="Appln/UIL/ActivitiesHome?__Mode=AC004" title="Hot Air Balloon">
+                        <img src="GTDC-holidays/images/sttile-HAB.jpg" style="width: 100%;" alt="Hot Air Balloon" />
+
+                        <h5>Department of Tourism (GTDC), Government of Goa has exclusively collaborated with Tiger Balloon Safaris to provide Hot Air Balloon flights in the state of Goa.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2 style="font-size: 20px">Tirupati Tours</h2>
+                    <a href="tirupati_tours.aspx" title="Tirupati Tours">
+                        <img src="GTDC-holidays/images/sttile-tirupati.jpg" style="width: 100%;" alt="Tirupati Tours" />
+
+                        <h5>Local Goans and pilgrims yearning to partake in  Tirupathi Darshans can  now travel at ease and  comfort from  2nd July.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2 style="font-size: 15px">Bird and Wildlife trips</h2>
+                    <a href="AvocetPeregrine_main.aspx" title="Bird and Wildlife trips">
+                        <img src="GTDC-holidays/images/sttile-avocetperegrine.jpg" style="width: 100%;" alt="Bird and Wildlife trips" />
+
+                        <h5>Guided birding day trips to 8 Premier Birding Hotspots in Goa</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Scuba Diving</h2>
+                    <a href="Appln/UIL/ActivitiesHome?__Mode=AC003" title="Scuba Diving">
+                        <img src="GTDC-holidays/images/sttile-flyingfish.jpg" style="width: 100%;" alt="Scuba Diving" />
+
+                        <h5>Sight delightful dolphins on the way to Grandé Island where you get to scuba dive and snorkel in amazing dive sites like Suzy’s Wreck, Coral Garden, Bounty Bay, Lobsters’ Avenue</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Sea Rafting</h2>
+                    <a href="Searafting_main.aspx" title="Sea Rafting">
+                        <img src="GTDC-holidays/images/sttile-searafting.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>The rains are clearing and the post monsoon season brings a different vibe to Goa. We move to the beaches to bring you the first Sea Rafting operation in India.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            
+             <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2 style="font-size: 15px">Photoshoot with Lokaso</h2>
+                    <a href="lokaso.aspx" title="lokaso">
+                        <img src="GTDC-holidays/images/sttile-lokaso.jpg" style="width: 100%;" alt="Photoshoot with Lokaso" />
+
+                        <h5>Lokaso Media is a photography experience in Goa which is one of its kind. We focus on local talent & curate the best photographers to help you freeze the most special moments of your Goa trip.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+
+	    <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Bungy Jumping</h2>
+                    <a href="Appln/UIL/ActivitiesHome?__Mode=AC007" title="Bungy Jumping">
+                        <img src="GTDC-holidays/images/sttile-bungyj.jpg" style="width: 100%;" alt="Bungy Jumping" />
+
+                        <h5>Bungy Jumping - Now in GOA! After operating over 80,000 jumps in Rishikesh, Jumpin Heights, the Bungy People - now bring their magic to Goa!</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+	
+	    <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2 style="font-size: 15px">Motorised Paragliding</h2>
+                    <a href="motorised_paragliding.aspx" title="Motorised Paragliding">
+                        <img src="GTDC-holidays/images/sttile-paragliding.jpg" style="width: 100%;" alt="Bungy Jumping" />
+
+                        <h5>Form of paragliding in which a motor is mounted on a cart type unit with 2 seats for pilot and joyrider.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+
+	   <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Ashtavinayak Tours</h2>
+                    <a href="Ashtavinayak_tours.aspx" title="Ashtavinayak Tours">
+                        <img src="GTDC-holidays/images/Sttile_ashtavinayak.jpg" style="width: 100%;" alt="Ashtavinayak Tours" />
+
+                        <h5>The memorable Ashtavinayak tours organised by Goa Development Corporation commences from 31st October 2019. </h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>            
+
+            <div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>Calender</h2>
+                    <a href="calender.aspx" title="Calender">
+                        <img src="GTDC-holidays/images/stttile-calender.jpg" style="width: 100%;" alt="Things to Do in Goa" />
+
+                        <h5>Explore the upcoming events and festivals, also we have a collection of events that have taken place so jump in and take a tour of archives.</h5>
+
+                        <div class="colorpanel color2"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>
+            <!--<div class="col-md-3 col-sm-6">
+                <section>
+                    <h2>White Water Rafting</h2>
+                    <a href="riverrafting.aspx" title="River Rafting">
+                        <img src="#" style="width: 100%;" alt="River Rafting" />
+                        <h5>Raining in Goa. The Monsoon. This is the time to go White Water Rafting. Only between the months of June to October.</h5>
+
+                        <div class="colorpanel color3"><span>READ MORE</span></div>
+                    </a>
+                </section>
+            </div>-->
+            
+        </div>
+    </div>
+    <div id="wrappereventcal">
+        <div class="wrapperin profile" style="width: 100%;">
+            <div class="profile-body">
+                <div class="row">
+    <div class="video-slider">
+    <!-- SLIDE 1 -->
+    <div class="slide">
+                   
+                        <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/BAeCXoSVwFA?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/N9IjjJ_8yxo?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/wI74Ewd4lyA?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                
+    </div>
+    <!-- SLIDE 2 -->
+    <div class="slide">
+                   
+                        <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/oF1hFvE84kQ?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/xPF16pTcTG0?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/-LqLkfoyTFs?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                
+    </div>
+
+     <!-- SLIDE 3 -->
+    <div class="slide">
+                   
+                       <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/7Ejl3imbzTs?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/WZnX4cp1Zow?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/MHgUPAl5pp8?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+    </div>
+     <!-- SLIDE 4 -->
+    <div class="slide">
+                      <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/z4bz_h-qL7w?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/U_mdEWo8FhM?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/qmfSES-uezw?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <!-- SLIDE 5 -->
+    <div class="slide">
+                      <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/LWwriQDmlv8?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/Gm1fpb9BYGI?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/UriZcSsOApI?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
+    <!-- SLIDE 6 -->
+        <div class="slide">
+                    <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/RQGrLpWpznE?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/MXIoqFcL348?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <iframe class="video" width="409" height="190" src="https://www.youtube.com/embed/Duq5Ak4XSRI?rel=0&ecver=2&enablejsapi=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+
+    <!-- END OF SLIDES -->
+    <div class="slide-arrow left"></div>
+    <div class="slide-arrow right"></div>
+    </div>
+                 </div>
+                </div>
+            </div>
+        </div>
+    <!--<div id="wrappereventcal"> -->
+        <!--<a name ="whatsnew"></a>-->
+        <!--<div class="wrapperin profile" style="width: 100%;">
+            <div class="profile-body">
+                <div class="row">
+                    <div class="col-sm-4 md-margin-bottom-20">
+                        <iframe width="100%" height="180" src="https://www.youtube.com/embed/BAeCXoSVwFA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-sm-4 md-margin-bottom-20">
+                        <iframe width="100%" height="180" src="https://www.youtube.com/embed/N9IjjJ_8yxo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-sm-4 md-margin-bottom-20">
+                    <iframe width="100%" height="180" src="https://www.youtube.com/embed/wI74Ewd4lyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+    <!-- WRAPPER Event Cal -->
+    <div id="wrappereventcal">
+        <!--<a name ="whatsnew"></a>-->
+        <div class="wrapperin profile" style="width: 100%;">
+            <div class="profile-body">
+                <div class="row">
+                    <div class="col-sm-6 md-margin-bottom-20">
+                        <div class="panel panel-profile no-bg">
+                            <div class="panel-heading overflow-h">
+                                <img class="pull-left" src="GTDC-holidays/images/event.jpg" style="font-size: 25px;
+                                    padding-top: 8px; padding-right: 10px;" />
+                                <h2 class="panel-title-panel">
+                                    News, Events and Festivals</h2>
+                            </div>
+
+                            <div id="scrollbar" class="panel-body no-padding mCustomScrollbar" data-mcs-theme="minimal-dark"
+                                style="height: 290px;">
+
+			    <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Goa Tourism bags top honour at the 6thedition of the WTTCII-HOTELIVATE STATE RANKING SURVEY 2019 - Press Release..pdf" target="_blank">Goa Tourism bags top honour at the 6thedition of the WTTCII-HOTELIVATE STATE RANKING SURVEY 2019 - Press Release.</a></h3>
+                                            <p>PDF Download</p>
+                                    </div>
+                                </div>				
+
+			    <div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="Ashtavinayak_tours.aspx" target="_Blank">Ashtavinayak Tours</a></h3>
+                                    <p>View Details
+                                        </p>
+                                </div>
+                            </div> 
+
+<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GTDC launches Ashtavinayak tours today-English Press Release.pdf" target="_blank">GTDC launches Ashtavinayak tours English Press Release</a></h3>
+                                            <p>PDF Download</p>
+                                    </div>
+                                </div>
+                                <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GTDC launches Ashtavinayak tours today-Marathi Press Release.pdf" target="_blank">GTDC launches Ashtavinayak tours Marathi Press Release</a></h3>
+                                            <p>PDF Download</p>
+                                    </div>
+                                </div>
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/State Tourism Ministers Conference.pdf" target="_blank">State Tourism Ministers Conference: Goa urges Union Tourism Ministry to ease out visa processes for tourists, GTDC to launch Tourism App for tourists, seeks central assistance to improve facilities for pilgrims visiting Old Goa
+					 <p>PDF Download</p>
+                                    </div>
+                                </div>	
+				
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GTDC DECLARES WAR ON PLASTIC,  BANS USE OF BOTTLES, CUPS AND  STRAWS  MADE OF PLASTIC-Press Release.pdf" target="_blank">GTDC DECLARES WAR ON PLASTIC,  BANS USE OF BOTTLES, CUPS AND  STRAWS  MADE OF PLASTIC
+					 <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Mayem Lake  beautification and  upgradation-Press Release.pdf" target="_blank">Mayem Lake beautification and upgradation works inaugurated by Hon’ble CM of Goa, Dr. Pramod Sawant
+					 <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="world_photography_day.aspx" target="_blank">World Photography Day
+					 <p>View Details</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Bungee Jumping-Press Release(Final).pdf" target="_blank">Goa Tourism in association with Jumpin Heights launches Bungee Jumping at Mayem in Goa
+					 <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GITM-English_Press_Release.pdf" target="_blank">Goa Tourism set to Organize GITM 2019, the Grandest B2B travel networking event in Goa from October 23-25
+					 <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GoaMiles English Press Release.pdf" target="_blank">GTDC's GoaMiles completes a successful year as Goa's first and only app-based taxi service.
+					 <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Selaulim garden to be developed into Botanical garden and hinterland tourism attraction.pdf" target="_blank">Selaulim garden to be developed into Botanical garden and hinterland tourism attraction</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	
+			
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Transport Mobility Plan due to Strike.pdf" target="_blank">Transport Mobility Plan due to Strike called by Taxi Operators in Protest against Goa Miles</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GoaMiles_is_now_Goa_governments_licensed_app_based_taxi_service.pdf" target="_blank">GoaMiles is now Goa government’s licensed app based taxi service</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>				
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/GTDC's enthralling Mhadei river rafting commences.pdf" target="_blank">GTDC's enthralling Mhadei river rafting commences</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Union Tourism  Minister Prahlad  Singh Patel assures support from Centre  for  tourism projects in Goa-Marathi Press Release.pdf" target="_blank">Union Tourism  Minister Prahlad  Singh Patel assures support from Centre for tourism projects in Goa-Marathi Press Release</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Union Tourism  Minister Prahlad  Singh Patel assures support from Centre  for  tourism projects in Goa-English Release.pdf" target="_blank">Union Tourism  Minister Prahlad  Singh Patel assures support from Centre for tourism projects in Goa-English Release</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	
+				
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Goa Miles Rejoinder.pdf" target="_blank">Goa Miles Rejoinder</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	
+				
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Impressive participation by Goa Tourism at BTL, Lisbon, Portugal which commenced on 13th March 2019.pdf" target="_blank">Impressive 				participation by Goa Tourism at BTL, Lisbon, Portugal</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>
+                                <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/INDIA TODAY TOURISM AWARDS PRESS RELEASE.pdf" target="_blank">INDIA TODAY TOURISM AWARDS PRESS RELEASE</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>
+                                			
+				<!-- <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px; padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs"><a href="GTDC-holidays/images/downloads/Carnaval&GrapeEscapade.pdf">Carnaval & Grape Escapade Press Release</a></h3>
+                                        <p>PDF Download</p>
+                                    </div>
+                                </div>	-->
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Overwhelming response for The Goa Heritage Festival 2019 at Fatorda, Margao.pdf" target="#">Overwhelming response for The Goa Heritage Festival 2019 at Fatorda, Margao</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                    </div>
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Grand  inauguration  marks the commencement  of the Goa Heritage Festival 2019  at Fatorda, Margao.pdf" target="#">Grand  inauguration  of the Goa Heritage Festival 2019  at Fatorda, Margao</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                </div>
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href= "newsletters.aspx" target="#">Newsletters </a></h3>
+                                        <p>
+                                         View Details</p>
+                                    </div> 
+                                </div>
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Spirit of Goa 2019-Marathi Press Release.pdf" target="#">Spirit of Goa 2019 </a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                </div>	
+				
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/GOA Vintage Car and Bike festival-Press Release.pdf" target="#">GOA Vintage Car and Bike festival</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                 </div>-->
+
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Goa Newsletter Jan-Feb 2019.pdf" target="#">Goa Newsletter Jan-Feb 2019</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                    </div>-->
+
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/HANUMAN JATRA.pdf" target="#">HANUMAN JATRA</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                    </div>-->
+
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/TOURISM MINISTER MEETING WITH TOURISM STAKEHOLDERS - PRESS RELEASE.pdf" target="#">TOURISM MINISTER MEETING WITH TOURISM STAKEHOLDERS.</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                    </div>-->
+                                
+
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Goa Tourism participated in SATTE, Delhi  -Press Release.pdf" target="#">Goa Tourism participated in SATTE, Delhi.</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                    </div>
+
+				<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span> 
+                                    <div class="profile-post-in"> 
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Dindi Mohatsav Black with Goa logo3.pdf" target="#">Dindi Mahotsav, Hari Mandir,  Margao Goa.</a></h3>
+                                        <p>
+                                         PDF Download</p>
+                                    </div> 
+                                </div>
+                                
+                                <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="#" target="#">TRIPURA PURNIMA 22 NOV 2018</a></h3>
+                                        <p>
+                                        <p><a href="GTDC-holidays/images/downloads/Tripurari Purnima.pdf" target="_blank" title="Download Participation form">ENGLISH</a></p>
+                                        <p><a href="GTDC-holidays/images/downloads/Tripurari Purnima -Marathi.pdf" target="_blank" title="Download Catalogue form">MARATHI</a></p>
+                                            PDF Download</p>
+                                    </div>
+                                </div> -->
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/EV TOURISM -Press Release.pdf" target="#">ELECTRIC VEHICLE TOURISM - PRESS RELEASE</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+                                
+                               <!-- <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/BEACH CLEANING INTERIM MEASURES.docx - PRESS RELEASE.pdf" target="#">BEACH CLEANING INTERIM MEASURES - PRESS RELEASE</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>
+                                
+                                <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/OYO Diwali Trends Story-Goa_Revised_01 11 18 - Marathi Copy.pdf" target="#">OYO Diwali Trends Story Goa - Marathi</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>
+                                <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Press Release_Caravela Beach Resort Goa.pdf" target="#">Press Release_Caravela Beach Resort Goa</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>    
+                            <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/World tourism celebration.pdf" target="#">World Tourism Day Celebrations 2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>  -->  
+                 	<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/NationalAward.pdf" target="#">National Tourism Award</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>  -->
+             
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Paryatan parv day5.pdf" target="#">Paryatan Parv - Cleanliness Drive</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>
+				
+				 <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Paryatan Parv.pdf" target="#">Paryatan Parv - Nukkad Natak</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div> -->
+				 <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Japan_&_Goa_for_promoting_tourism_ties.pdf" target="#">Press Note Japan & Goa for promoting tourism ties </a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>
+
+				 <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Goa_Tourism_bags_Best_Decorated_Stall_Award_at_TTF_Kolkata_2018.pdf">Press Note Award At TTF Kolkata 11 JULY 2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div> -->
+				 
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/10TH_JULY_PRESS_RELEASE_FOUNDATION_STONES_LAID_FOR_INFRA_PROJECTS_AT_COLVA&BENAULIM.pdf">Press Note Development project at Colva & Benaulim 10 JULY 2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Press Note_GoaEscape_5JULY_2018_FINAL.DOCX.pdf">Press Note Goa Escape 5 JULY 2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+				
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/2NDJULY_TIRUPATHI_TOURS_LAUNCHED_BY_GTDC_PRESS RELEASE.pdf">Press Note GTDC Pilgrimage tours 2 JULY 2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+
+				
+				<!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/Goa_Newsletter_Mar-Apr_2018_final.pdf">Newsletter March-April 2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div> -->
+
+
+                               <!-- <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/INDIAN AMBASSADORS CALL ON TOURISM  MINISTER.pdf">INDIAN AMBASSADORS CALL ON TOURISM  MINISTER</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+
+                                
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/GTDC TO LAUNCH TIRUPATHI TOURS FROM 2ND JULY.pdf">GTDC TO LAUNCH TIRUPATHI TOURS FROM 2ND JULY </a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/APP BASED TAXI SERVICE TO BE LAUNCHED SOON.pdf">APP BASED TAXI SERVICE TO BE LAUNCHED SOON </a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>
+                                 <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/SAO JOAO 2018 PRESS RELEASE.pdf">SAO JOAO PRESS RELEASE </a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>
+                                <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/PRESS RELEASE ON GOA TOURISM'S PARTICIPATION  AT ABP KOLKATA.pdf">Goa Tourism participates at ABP TOURIST SPOT event in Kolkata
+                                            </a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="riverrafting.aspx">River Rafting</a></h3>
+                                        <p>
+                                            More Details</p>
+                                    </div>
+                                </div> -->
+                               <!-- <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/e-newsletter-Apr-2018.pdf">Newsletter - April
+                                                2018</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div> -->
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a>Mhadei Wildlife Sanctuary</a></h3>
+                                        <p>
+                                            Picked by Culture Trip</p>
+                                    </div>
+                                </div> -->
+                               <!-- <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/garbage-management-holidaying.pdf">Garbage Management
+                                                while Holidaying</a></h3>
+                                        <p>
+                                            PDF Download</p>
+                                    </div>
+                                </div>-->
+                                <!--<div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="GTDC-holidays/images/downloads/e-newsletter-feb-2018.pdf">Newsletter January
+                                                - February 2018</a></h3>
+                                        <p>
+                                            &nbsp;</p>
+                                    </div>
+                                </div>-->
+
+                               <!-- <div class="profile-post color-one">
+                                    <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                        padding-top: 5px; color: #00a1d5;"></i></span>
+                                    <div class="profile-post-in">
+                                        <h3 class="heading-xs">
+                                            <a href="best_activities.aspx">Best Activities </a>
+                                        </h3>
+                                        <p>
+                                            Experience some of the Best Activities in Goa</p>
+                                    </div>
+                                </div>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="panel panel-profile no-bg">
+                            <div class="panel-heading overflow-h">
+                                <i class="fa fa-calendar pull-left" style="font-size: 25px; padding-top: 8px; color: #555555;">
+                                </i>
+                                <h2 class="panel-title-panel">
+                                    Upcoming Events</h2>
+                            </div>
+                            <div id="Div1" class="panel-body no-padding mCustomScrollbar" data-mcs-theme="minimal-dark"
+                                style="height: 290px;">
+				
+
+			    <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="Bird_Festival_Goa">3<sup>rd</sup> Bird Festival Goa</a></h3>
+                                    <p>17<sup>th</sup> Jan - 19<sup>th</sup> Jan 2020</p>
+				<p>Valpoi - Sattari</p>
+                                </div>
+                            </div> -->
+
+			    
+			    <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="november_poornima.aspx" target="_Blank">Tripurari Poornima 12th November</a></h3>
+                                    <p>View Details
+                                        </p>
+                                </div>
+                            </div> -->	
+			    <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="world_photography_day.aspx" title="World Photography Day" target="_blank">World Photography Day 19th Aug 2019</a></h3>
+                                    <p>View Details
+                                        </p>
+                                </div>
+                            </div> -->
+
+			    <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="saojoao.aspx" target="#">SAO JOAO SPECIAL CRUISE </a></h3>
+                                    <p>View Details
+                                        </p>
+                                </div>
+                            </div> -->
+
+			  <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="SundayTrekk.aspx" target="#">Sunday Trek</a></h3>
+                                    <p>View Details
+                                        </p>
+                                </div>
+                            </div> -->			
+
+			    <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="GTDC-holidays/images/downloads/Spirit of Goa 2019-Marathi Press Release.pdf" target="#">Spirit of Goa 2019 - Marathi </a></h3>
+                                    <p>View Details
+                                        </p>
+                                </div>
+                            </div> -->
+                                
+                              <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="#" target="#">Serendipity Arts Festival 2018 (15-22 DEC)</a></h3>
+                                    <p>
+                                        </p>
+                                </div>
+                            </div>-->
+                                
+                                <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="GTDC-holidays/images/downloads/GTDC organizing Special Diwali Eve Boat Cruise on 5th Nov.pdf" target="#">GTDC organizing Special Diwali Eve Boat Cruise on 5th Nov</a></h3>
+                                    <p>
+                                        View Details</p>
+                                </div>
+                            </div> -->
+                            <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="hotairballoon.aspx">Hot Air Balloon Ride</a></h3>
+                                    <p>
+                                        View Details</p>
+                                </div>
+                            </div>
+                            
+                            
+ 			               
+                            <div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="tirupati_tours.aspx">Tirupati Tours</a></h3>
+                                    <p>
+                                        View Details</p>
+                                </div>
+                            </div> -->
+                            
+                            <!--<div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="awards.aspx">Best Wedding Destination and Best Nightlife Destination </a>
+                                    </h3>
+                                    <p>
+                                        Awards at IITM 2017 Bangalore</p>
+                                </div>
+                            </div>-->
+                           <!-- <div class="profile-post color-one">
+                                <span class="profile-post-numb"><i class="fa fa-caret-right" style="font-size: 30px;
+                                    padding-top: 5px; color: #00a1d5;"></i></span>
+                                <div class="profile-post-in">
+                                    <h3 class="heading-xs">
+                                        <a href="swadesh_darshan.aspx">Goa gets second allotment of CFA to the tune</a></h3>
+                                    <p>
+                                        of Rs. 100 crore under Phase II of Swadesh Darshan</p>
+                                </div>
+                            </div>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    </div>
+    </form>
+    <div>
+        
+
+        <div id="footer-v1" class="footer-v1">
+            <div class="footer" style="padding-bottom: 0px;">
+                <div class="container">
+                    <div class="row">
+                        <!-- Link List -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline">
+                                <h2 style="margin: -18px; margin-bottom: -1px;">
+                                    Useful Links</h2>
+                            </div>
+                            <ul class="list-unstyled link-list">
+                                <li><a href="../../tc">MPT Terms & Conditions</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../GTDC-holidays/images/downloads/registration_form.pdf"">Participate in Trade
+                                    Fairs</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../GTDC-holidays/images/downloads/fairs_17-18.pdf">Trade Fair Calendar</a><i
+                                    class="fa fa-angle-right"></i></li>
+                                <li><a href="http://117.239.178.52/vcards" target="http://117.239.178.52/vcards">V Cards</a><i
+                                    class="fa fa-angle-right"></i></li>
+                            </ul>
+                        </div>
+                        <!-- End Link List -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline">
+                                <h2 style="margin: -18px; margin-bottom: -1px;">
+                                    Others</h2>
+                            </div>
+                            <ul class="list-unstyled link-list">
+                                <li><a href="../../contact" title="Contact Us">Contact Us</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../emergency_no" title="Emergency Numbers">Emergency Numbers</a><i
+                                    class="fa fa-angle-right"></i></li>
+                                <li><a href="../../vacancies" title="Vacancies">Vacancies</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../taxi_rates" title="Tourist Taxi Rates">Tourist Taxi Rates</a><i
+                                    class="fa fa-angle-right"></i></li>
+                            </ul>
+                        </div>
+                        <!-- Latest -->
+                        <div class="col-md-3 md-margin-bottom-40">
+                            <div class="headline">
+                                <h2 style="margin: -18px; margin-bottom: -1px;">
+                                    Policies</h2>
+                            </div>
+                            <ul class="list-unstyled link-list">
+                                <li><a href="../../help">Help</a><i class="fa fa-angle-right"></i></li>
+                                <!--<li><a href="../../website" onclick="return confirm('This link will take you to an external web site.');" target="http://goatourism.gov.in">DoT Website</a><i class="fa fa-angle-right"></i></li>-->
+                                <li><a href="../../hyperlinking">Hyperlinking Policy</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../refund">Refund Policy</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../privacy">Privacy Policy</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../copyright">Copyright Policy</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../disclaimer">Disclaimer</a><i class="fa fa-angle-right"></i></li>
+                                <li><a href="../../terms">Terms & Conditions</a><i class="fa fa-angle-right"></i></li>
+                            </ul>
+                        </div>
+                        <!-- End Latest -->
+                        <!-- Address -->
+                        <div class="col-md-3 map-img md-margin-bottom-40">
+                            <div class="headline">
+                                <h2 style="margin: -18px; margin-bottom: -1px;">
+                                    Contact Us</h2>
+                            </div>
+                            <address class="md-margin-bottom-40">
+                                Goa Tourism Development Corporation Ltd.
+                                <br />
+                                Paryatan Bhavan, 3rd Floor, Patto,
+                                <br />
+                                Panaji-Goa, India 403001<br />
+                                
+                                Phone: 0832-2437132 / 2437728
+                                <br />
+                                &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;0832-2438515 / 2438866<br />
+                                Fax: +91 832 2437433<br />
+                                Email: <a style="color: white;">reservations[at]goa-tourism[dot]com</a>
+                            </address>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--/footer-->
+            <div class="copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <p>
+                                2018 &copy; All Rights Reserved | Website Maintained by <a href="https://geleservices.com/gel/"
+                                    onclick="return confirm('This link will take you to an external web site.')"
+                                    target="https://geleservices.com/gel/" style="color: white; font-size: 13px;
+                                    font-weight: bold;">Goa Electronics Limited</a>
+                            </p>
+                        </div>
+                        <div class="col-md-4">
+                            <p>
+                                <span style="color: white; padding-top: 14px;">Visitor No:</span> <a>
+                                    <img src="https://www.easycounter.com/counter.php?gel" border="0" alt="Web Counters" /></a>&nbsp;&nbsp;
+                                <span style="color: white; padding-top: 14px;">Last Updated: 31 December 2019</span>
+                            </p>
+                        </div>
+                        <!-- Social Links -->
+                        <div class="col-md-3">
+                            <ul class="social-icons pull-right">
+                                <li><a href="https://www.facebook.com/officialgoatourism" onclick="return confirm('This link will take you to an external web site.');"
+                                    target="https://www.facebook.com/officialgoatourism" class="rounded-x social_facebook"
+                                    data-toggle="tooltip" data-placement="top" title="Facebook" data-original-title="Facebook">
+                                </a></li>
+                                <li><a href="https://twitter.com/TourismGoa" onclick="return confirm('This link will take you to an external web site.');"
+                                    target="https://twitter.com/TourismGoa" class="rounded-x social_twitter" data-toggle="tooltip"
+                                    data-placement="top" title="Twitter" data-original-title="Twitter"></a></li>
+                                <li><a href="https://www.youtube.com/user/GoaTourismOfficial" onclick="return confirm('This link will take you to an external web site.');"
+                                    target="https://www.youtube.com/user/GoaTourismOfficial" class="rounded-x social_youtube"
+                                    data-toggle="tooltip" data-placement="top" title="Youtube" data-original-title="Youtube">
+                                </a></li>
+                                <li><a href="https://plus.google.com/+Goatourismofficial/posts" onclick="return confirm('This link will take you to an external web site.');"
+                                    target="https://plus.google.com/+Goatourismofficial/posts" class="rounded-x social_googleplus"
+                                    data-toggle="tooltip" data-placement="top" title="Google Plus" data-original-title="Google Plus">
+                                </a></li>
+                                <li><a href="https://www.pinterest.com/tourismgoa/" onclick="return confirm('This link will take you to an external web site.');"
+                                    target="https://www.pinterest.com/tourismgoa/" class="rounded-x social_pintrest"
+                                    data-toggle="tooltip" data-placement="top" title="Pinterest" data-original-title="Pinterest">
+                                </a></li>
+                            </ul>
+                        </div>
+                        <!-- End Social Links -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 5px;
+            right: 5px; opacity: 1; cursor: pointer;">
+        </div>
+
+        <script>
+            var scrolltotop = {
+
+                setting: { startline: 100, scrollto: 0, scrollduration: 1000, fadeduration: [500, 100] },
+                controlHTML: '',
+                controlattrs: { offsetx: 5, offsety: 5 },
+                anchorkeyword: '#top',
+
+                state: { isvisible: false, shouldvisible: false },
+
+                scrollup: function() {
+                    if (!this.cssfixedsupport)
+                        this.$control.css({ opacity: 0 })
+                    var dest = isNaN(this.setting.scrollto) ? this.setting.scrollto : parseInt(this.setting.scrollto)
+                    if (typeof dest == "string" && jQuery('#' + dest).length == 1)
+                        dest = jQuery('#' + dest).offset().top
+                    else
+                        dest = 0
+                    this.$body.animate({ scrollTop: dest }, this.setting.scrollduration);
+                },
+
+                keepfixed: function() {
+                    var $window = jQuery(window)
+                    var controlx = $window.scrollLeft() + $window.width() - this.$control.width() - this.controlattrs.offsetx
+                    var controly = $window.scrollTop() + $window.height() - this.$control.height() - this.controlattrs.offsety
+                    this.$control.css({ left: controlx + 'px', top: controly + 'px' })
+                },
+
+                togglecontrol: function() {
+                    var scrolltop = jQuery(window).scrollTop()
+                    if (!this.cssfixedsupport)
+                        this.keepfixed()
+                    this.state.shouldvisible = (scrolltop >= this.setting.startline) ? true : false
+                    if (this.state.shouldvisible && !this.state.isvisible) {
+                        this.$control.stop().animate({ opacity: 1 }, this.setting.fadeduration[0])
+                        this.state.isvisible = true
+                    }
+                    else if (this.state.shouldvisible == false && this.state.isvisible) {
+                        this.$control.stop().animate({ opacity: 0 }, this.setting.fadeduration[1])
+                        this.state.isvisible = false
+                    }
+                },
+
+                init: function() {
+                    jQuery(document).ready(function($) {
+                        var mainobj = scrolltotop
+                        var iebrws = document.all
+                        mainobj.cssfixedsupport = !iebrws || iebrws && document.compatMode == "CSS1Compat" && window.XMLHttpRequest
+                        mainobj.$body = (window.opera) ? (document.compatMode == "CSS1Compat" ? $('html') : $('body')) : $('html,body')
+                        mainobj.$control = $('<div id="topcontrol">' + mainobj.controlHTML + '</div>')
+                    .css({ position: mainobj.cssfixedsupport ? 'fixed' : 'absolute', bottom: mainobj.controlattrs.offsety, right: mainobj.controlattrs.offsetx, opacity: 0, cursor: 'pointer' })
+                    .attr({ title: 'Scroll Back to Top' })
+                    .click(function() { mainobj.scrollup(); return false })
+                    .appendTo('body')
+                        if (document.all && !window.XMLHttpRequest && mainobj.$control.text() != '')
+                            mainobj.$control.css({ width: mainobj.$control.width() })
+                        mainobj.togglecontrol()
+                        $('a[href="' + mainobj.anchorkeyword + '"]').click(function() {
+                            mainobj.scrollup()
+                            return false
+                        })
+                        $(window).bind('scroll resize', function(e) {
+                            mainobj.togglecontrol()
+                        })
+                    })
+                }
+            }
+
+            scrolltotop.init()
+        </script>
+</body>
+</html>
